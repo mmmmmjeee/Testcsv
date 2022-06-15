@@ -11,7 +11,7 @@ LPF,5MHz,64,0,"1. Stop Attenuation
 ,,,6,
 ,,,7,
 ,,,8,
-HPF,3MHz,16,0,"1. Stop Attenuation
+HPF,50MHz,16,0,"1. Stop Attenuation
 2. Pass Band Ripple Variation
 3. Transition Band
 4. MATLAB function name"
