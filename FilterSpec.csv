@@ -1,0 +1,45 @@
+﻿,Cut-off,Tap,index,내용
+LPF,5MHz,64,0,"1. Stop Attenuation
+2. Pass Band Ripple Variation
+3. Transition Band
+4. MATLAB function name"
+,,,1,
+,,,2,
+,,,3,
+,,,4,
+,,,5,
+,,,6,
+,,,7,
+,,,8,
+HPF,3MHz,16,0,"1. Stop Attenuation
+2. Pass Band Ripple Variation
+3. Transition Band
+4. MATLAB function name"
+,,,1,
+,,,2,
+,,,3,
+,,,4,
+,,,5,
+,,,6,
+,,,7,
+,,,8,
+BPF,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+BSF,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
